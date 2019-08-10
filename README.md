@@ -16,7 +16,5 @@ https://www.youneed.win/free-ss
 5. 保存到本地ss.txt文件
 
 ## 效果展示
-
-![test](https://raw.githubusercontent.com/DiCaprio17/ss-collect/master/test.png)
-
 **两个列表顺序对应**
+![test](https://raw.githubusercontent.com/DiCaprio17/ss-collect/master/test.png)
