@@ -3,7 +3,7 @@
 免费ss节点收集以及对节点进行Ping测试
 
 ## 免费ss节点来源
-https://flywind.ml/free-ss
+https://www.flywind.ml/free-ss
 
 https://www.youneed.win/free-ss
 
